@@ -12,7 +12,7 @@
     "IIS Express": {
       "commandName": "IISExpress",
       "launchBrowser": false,
-      "launchUrl": "api/displayBlock",
+      "launchUrl": "index.html",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
@@ -20,7 +20,7 @@
     "WebSpark": {
       "commandName": "Project",
       "launchBrowser": false,
-      "launchUrl": "api/displayBlock",
+      "launchUrl": "index.html",
       "applicationUrl": "https://localhost:5010;http://localhost:5011",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"

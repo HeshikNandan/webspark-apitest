@@ -19,5 +19,12 @@
   </ItemGroup>
   <ItemGroup>
     <Content Remove="wwwroot\index.html" />
+    <Content Remove="wwwroot\index.js" />
+    <Content Remove="wwwroot\index.css" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="wwwroot\index.html" />
+    <None Include="wwwroot\index.js" />
+    <None Include="wwwroot\index.css" />
   </ItemGroup>
 </Project>
